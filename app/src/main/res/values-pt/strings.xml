@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PFAFAds05na</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_detail_address">Endereço</string>
+    <string name="action_new">Novo</string>
+    <string name="action_save">Salvar</string>
+    <string name="action_delete">Excluir</string>
+    <string name="action_close">Fechar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_search">Pesquisar</string>
+    <string name="action_filter">Filtro</string>
+    <string name="action_clear_filter">Limpar filtro</string>
+    <string name="selected">Selecionado</string>
+    <string name="multiselected">Selecionados</string>
+    <string name="name">Nome</string>
+    <string name="street">Logradouro</string>
+    <string name="neighborhood">Bairro</string>
+    <string name="city">Município</string>
+    <string name="state">Estado</string>
+    <string name="number">Número</string>
+    <string name="zip_code">CEP</string>
+    <string name="query_err_zip_code">Não foi possível realizar a consulta pelo cep!</string>
+    <string name="query_not_found_zip_code">Não foi encontrado registro referente ao cep informado!</string>
+    <string name="address">Enderecço</string>
+    <string name="map">Mapa</string>
+    <string name="address_coordinates_err">Não foi possível pegar as coordenadas do endereço.</string>
+    <string name="wait">Aguarde&#8230;</string>
+    <string name="update_map">Atualizar mapa</string>
+
+</resources>

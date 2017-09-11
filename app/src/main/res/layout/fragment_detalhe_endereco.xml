@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragmentDetalheEndereco"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/TextView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:text="@string/name" />
+
+        <EditText
+            android:id="@+id/textNomeResultado"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/TextView1"
+            android:inputType="text" />
+
+        <TextView
+            android:id="@+id/TextView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/textNomeResultado"
+            android:text="@string/zip_code" />
+
+        <EditText
+            android:id="@+id/textCepResultado"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/TextView2"
+            android:digits="1234567890"
+            android:ems="10"
+            android:inputType="number"
+            android:maxLength="8" >
+        </EditText>
+
+        <TextView
+            android:id="@+id/TextView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/btnPesquisar"
+            android:text="@string/street" />
+
+        <EditText
+            android:id="@+id/textLogradouro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/TextView4"
+            android:inputType="text" />
+
+        <TextView
+            android:id="@+id/TextView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/textLogradouro"
+            android:text="@string/city" />
+
+        <EditText
+            android:id="@+id/textCidade"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/TextView5"
+            android:inputType="text" />
+
+        <TextView
+            android:id="@+id/TextView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/textCidade"
+            android:text="@string/neighborhood" />
+
+        <EditText
+            android:id="@+id/textBairro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/TextView6"
+            android:inputType="text" />
+
+        <TextView
+            android:id="@+id/TextView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/textBairro"
+            android:text="@string/state" />
+
+        <EditText
+            android:id="@+id/textUF"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/TextView7"
+            android:inputType="text" />
+
+        <TextView
+            android:id="@+id/TextView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/textUF"
+            android:text="@string/number" />
+
+        <EditText
+            android:id="@+id/textNumero"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignRight="@+id/textCepResultado"
+            android:layout_below="@+id/TextView8"
+            android:digits="1234567890"
+            android:inputType="number" />
+
+        <Button
+            android:id="@+id/btnPesquisar"
+            android:layout_width="124dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/textCepResultado"
+            android:layout_marginRight="28dp"
+            android:text="@string/action_search" />
+
+    </RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PFAFAds05na</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail_address">Address</string>
+    <string name="action_new">New</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_close">Close</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_clear_filter">Clear filter</string>
+    <string name="selected">Selected</string>
+    <string name="multiselected">Selected</string>
+    <string name="name">Name</string>
+    <string name="street">Street</string>
+    <string name="neighborhood">Neighborhood</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="number">Number</string>
+    <string name="zip_code">Zip code</string>
+    <string name="query_err_zip_code">Unable to perform query by zip code!</string>
+    <string name="query_not_found_zip_code">Not found registration to the zip code entered!</string>
+    <string name="address">Address</string>
+    <string name="map">Map</string>
+    <string name="address_coordinates_err">Unable to get the coordinates of the address.</string>
+    <string name="wait">Wait&#8230;</string>
+    <string name="update_map">Update map</string>
+
+</resources>

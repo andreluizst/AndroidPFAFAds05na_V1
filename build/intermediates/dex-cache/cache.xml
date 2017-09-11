@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android-projetos\AndroidPFAFAds05na\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="E:\Android-projetos\AndroidPFAFAds05na\app\build\intermediates\pre-dexed\debug\classes-18e745ba76f68798b5dab7c91f39116d50e97b42.jar" />
+    </item>
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="E:\Android-projetos\AndroidPFAFAds05na\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-abcc354e5dc859f25ed4a37a77133cdd37d0f15e.jar" />
+    </item>
+    <item
+        jar="E:\Android-projetos\AndroidPFAFAds05na\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="E:\Android-projetos\AndroidPFAFAds05na\app\build\intermediates\pre-dexed\debug\classes-c076603cf3b381023b8d10ff0339a294af5ebbf6.jar" />
+    </item>
+    <item
+        jar="C:\Users\AndreLuiz\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\Android-projetos\AndroidPFAFAds05na\app\build\intermediates\pre-dexed\debug\gson-2.2.4-e345aa0d0bdec41fe4dc93f695e0f550f9cbbc12.jar" />
+    </item>
+    <item
+        jar="E:\Android-projetos\AndroidPFAFAds05na\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="E:\Android-projetos\AndroidPFAFAds05na\app\build\intermediates\pre-dexed\debug\classes-dec5c1884890fc072ae9bf9a49646fc493c473ae.jar" />
+    </item>
+    <item
+        jar="E:\Android-projetos\AndroidPFAFAds05na\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="E:\Android-projetos\AndroidPFAFAds05na\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-89efc574546e20af73470b008c849be1f5172048.jar" />
+    </item>
+
+</items>

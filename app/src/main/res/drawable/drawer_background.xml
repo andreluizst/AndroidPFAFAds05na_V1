@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:shape="rectangle">
+    <!-- gradiente abaixo obitido através de http://angrytools.com/gradient/?0_6586f0,54_4B6CD6,2_D6D6D6&0_100,100_100&l_269 -->
+    <gradient
+		android:type="linear"
+		android:centerX="50%"
+		android:startColor="#FF003333"
+		android:centerColor="#FF05C1FF"
+		android:endColor="#FF003333"
+		android:angle="45"/>
+    
+    <corners android:radius="0dp" />
+
+
+</shape>
